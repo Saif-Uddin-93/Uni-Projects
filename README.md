@@ -1,2 +1,4 @@
 # Uni-Projects
-Game projects from university C#
+Game projects from university
+
+Programming Language used: C#
